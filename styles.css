@@ -1,0 +1,16 @@
+.heading  {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    border-style:dotted;
+    border-color:red;
+    width: 600px;
+    
+}
